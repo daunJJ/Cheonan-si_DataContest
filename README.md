@@ -33,4 +33,3 @@ CCTV, 가로등, 안전비상벨, 유흥업소, 경찰행정력의 5대 치안 �
 
 ## ETC
 - [태블로 퍼블릭 링크](https://public.tableau.com/app/profile/.41116809/viz/_17012386532360/1_)
-- [수상 관련 기사](http://www.sejongpr.ac.kr/sejongnewspaperview.do?currentPage=1&searchField=&searchValue=&boardType=7&pkid=52915)
